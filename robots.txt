@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiveedeuki.caboodle.me/sitemap.xml
